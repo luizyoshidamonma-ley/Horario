@@ -61,4 +61,65 @@ Feito ambos a monitoria quanto o preenchimento do portfólio.
 ### Dia 06/08/2026  -   Quinta-feira
 *planos: tentar colocar tudo no github (cronograma diário) e estudar um pouco de matemática (fazer mais da lista)*
 
+
+Consegui colocar o cronograma e as tarefas no github, passei a tarde toda tentando fazer isso e tive que re fazer o repositório, tava dando erro de autenticação eu acho, no final da tarde fiz dois exercícios da lista de matemática também.
+
+
+### Dia 07/08/2026
+*planos: estudar o conteúdo do Marcelo (POO) e tentar fazer os exercícios de tarefa dele*
+
+
+Estudei um pouco do conteúdo do Marcelo com os exercícios dele mas ainda não entendi completamente (ínicio de POO com o construtor e os parâmetros das funções), basicamente só fiz isso pq teve uma palestra sobre Nobreak.
+
+
+### Dia 10/08/2026
+*planos: fazer a monitoria do Londrinense Tech (passando pro portfólio) e começar a fazer as UCD's no tempo restante*
+
+
+Fiz a monitoria do Londrinense Tech, passei pro portfólio e fiz todas as minhas UCD's
+
+
+### Dia 11/08/2026
+*planos: terminar e mandar o trabalho do Matheusinho de metodologias ágeis no Jira e estudar matemática*
+
+
+Terminei e mandei o trabalho do Matheusinho, fiz a tarefa do Guilherme e o resto do dia foi no Ipolon na abertura da incubação
+
+
+### Dia 12/08/2026
+*planos: fazer a monitoria do Pensamento Computacional, colocar a aula no portfólio*
+
+
+Fiz a monitoria do Pensamento e coloquei no portfólio também fiz uma parte da atividade do Marcelo de POO
+
+
+### Dia 13/08/2026
+*planos: terminar a atividade do Marcelo que eu comecei ontem e fazer pelo menos um dos algorítimos da atividade do Guilherme*
+
+
+Demorei até as 5 pra conseguir terminar a atividade do Marcelo (tinha 2 a de segunda e uma que ele passou ontem) subestimei a de ontem também terminei um dos algorítimos do Guilherme.
+
+
+### Dia 14/08/2026
+
+
+*planos: fazer mais dos algorítimos do Guilherme*
+
+
+Fiz 8 algorítimos que o Guilherme pediu.
+
+
+### Dia 17/08/2026
+
+
+*planos: fazer a monitoria do Londrinense Tech, passar para o portfólio e documentação semanal vou tentar fazer mais exercícios da lista do Guilherme e se eu não conseguir continuar fazendo os algorítimos dele.*
+
+
+Fiz a monitoria e já passei pro docs e pro portfólio. Fiz mais 3 Algorítimos do Guilherme
+
+
+### Dia 18/08/2026
+
+
+*planos: continuar a estudar matemática e fazer mais exercícios da lista do Guilherme (álgebra linear)*
 </body>
