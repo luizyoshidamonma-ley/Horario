@@ -65,42 +65,42 @@ Feito ambos a monitoria quanto o preenchimento do portfólio.
 Consegui colocar o cronograma e as tarefas no github, passei a tarde toda tentando fazer isso e tive que re fazer o repositório, tava dando erro de autenticação eu acho, no final da tarde fiz dois exercícios da lista de matemática também.
 
 
-### Dia 07/08/2026
+### Dia 07/08/2026  -   Sexta-feira
 *planos: estudar o conteúdo do Marcelo (POO) e tentar fazer os exercícios de tarefa dele*
 
 
 Estudei um pouco do conteúdo do Marcelo com os exercícios dele mas ainda não entendi completamente (ínicio de POO com o construtor e os parâmetros das funções), basicamente só fiz isso pq teve uma palestra sobre Nobreak.
 
 
-### Dia 10/08/2026
+### Dia 10/08/2026  -   Segunda-feira
 *planos: fazer a monitoria do Londrinense Tech (passando pro portfólio) e começar a fazer as UCD's no tempo restante*
 
 
 Fiz a monitoria do Londrinense Tech, passei pro portfólio e fiz todas as minhas UCD's
 
 
-### Dia 11/08/2026
+### Dia 11/08/2026	-	Terça-feira
 *planos: terminar e mandar o trabalho do Matheusinho de metodologias ágeis no Jira e estudar matemática*
 
 
 Terminei e mandei o trabalho do Matheusinho, fiz a tarefa do Guilherme e o resto do dia foi no Ipolon na abertura da incubação
 
 
-### Dia 12/08/2026
+### Dia 12/08/2026	-	Quarta-feira
 *planos: fazer a monitoria do Pensamento Computacional, colocar a aula no portfólio*
 
 
 Fiz a monitoria do Pensamento e coloquei no portfólio também fiz uma parte da atividade do Marcelo de POO
 
 
-### Dia 13/08/2026
+### Dia 13/08/2026	-	Quinta-feira
 *planos: terminar a atividade do Marcelo que eu comecei ontem e fazer pelo menos um dos algorítimos da atividade do Guilherme*
 
 
 Demorei até as 5 pra conseguir terminar a atividade do Marcelo (tinha 2 a de segunda e uma que ele passou ontem) subestimei a de ontem também terminei um dos algorítimos do Guilherme.
 
 
-### Dia 14/08/2026
+### Dia 14/08/2026	-	Sexta-feira
 
 
 *planos: fazer mais dos algorítimos do Guilherme*
@@ -109,7 +109,7 @@ Demorei até as 5 pra conseguir terminar a atividade do Marcelo (tinha 2 a de se
 Fiz 8 algorítimos que o Guilherme pediu.
 
 
-### Dia 17/08/2026
+### Dia 17/08/2026	-	Segunda-feira	
 
 
 *planos: fazer a monitoria do Londrinense Tech, passar para o portfólio e documentação semanal vou tentar fazer mais exercícios da lista do Guilherme e se eu não conseguir continuar fazendo os algorítimos dele.*
@@ -118,8 +118,57 @@ Fiz 8 algorítimos que o Guilherme pediu.
 Fiz a monitoria e já passei pro docs e pro portfólio. Fiz mais 3 Algorítimos do Guilherme
 
 
-### Dia 18/08/2026
+### Dia 18/08/2026  -	Terça-feira
 
 
-*planos: continuar a estudar matemática e fazer mais exercícios da lista do Guilherme (álgebra linear)*
+*planos: continuar a estudar matemática e fazer mais exercícios da lista do Guilherme (álgebra linear). Esqueci que o Marcelo passou uma tarefa ontem, vou fazer ela antes*
+
+
+Fiz a tarefa do Marcelo e a tarefa do Guilherme de matrizes além de alguns exercícios da lista dele (Guilherme)
+
+
+### Dia 19/08/2026	-	Quarta-feira
+
+
+*planos: fazer a monitoria do Pensamento Computacional, colocar no portfólio e continuar fazendo a lista do Guilherme*
+
+
+Fiz a monitoria e coloquei no portfólio 
+
+
+### Dia 20/08/2026	-	Quinta-feira
+
+
+*planos: terminar a atividade do Marcelo de POO, começar a fazer a atividade do Leonardo de Depuração de código e estudar a lista de exercício do Leonardo*
+
+
+Terminei a atividade do Marcelo, corrigi 3 bugs da atividade do Leonardo e terminei toda a lista de exercício de depuração
+
+
+
+### Dia 21/08/2026  -   Sexta-feira
+
+
+*planos: fazer a atividade do Leonardo de depuração de código e fazer a atividade do Matheusinho*
+
+
+Fiz mais da atividade do Leonardo e terminei a atividade do Matheusinho
+
+
+### Dia 24/08/2026  -   Segunda-feira
+
+
+*planos: fazer a monitoria do Londrinense Tech, passar pro portfólio e fazer mais da atividade do Leonardo de depuração de código*
+
+
+Fiz a monitoria, passei pro portfólio, vi a reunião do NPI e a dos monitores do Koga e fiz um pouco da atividade de depuração de código
+
+
+### Dia 25/08/2026  -   Terça-feira
+
+
+*planos: estudar um pouco as apresentações de metodologias ágeis do Matheusinho, fazer mais da atividade do Leonardo de depuração de código e tentar pushar a pasta de POO pro github*
+
+
+
 </body>
