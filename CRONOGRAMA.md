@@ -170,5 +170,15 @@ Fiz a monitoria, passei pro portfólio, vi a reunião do NPI e a dos monitores d
 *planos: estudar um pouco as apresentações de metodologias ágeis do Matheusinho, fazer mais da atividade do Leonardo de depuração de código e tentar pushar a pasta de POO pro github*
 
 
+Estudei a apresentação do Matheusinho, depurei mais um pouco da atividade do Leonardo (falta bastante coisa ainda), pushei tudo pro github
 
+### Dia 26/08/2026
+*planos: fazer a monitoria do pensamento computacional, colocar no portfólio e estudar o conteúdo do Marcelo de POO (composição)*
+
+Fiz a monitoria do pensamento e já coloquei no portfólio, terminei de depurar a atividade do Leonardo mas falta a documentação, estudei um pouco do conteúdo do Marcelo
+
+### Dia 27/08/2026
+*planos: fazer a tarefa do Marcelo de encapsulamento e tentar fazer a mesma atividade do pensamento computacional de ontem pra estudar HTML*
+
+Fiz a tarefa do Marcelo do encapsulamento e "fiz" a atividade do pensamento computacional mas ficou feia 
 </body>
