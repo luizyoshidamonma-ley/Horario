@@ -1,0 +1,90 @@
+Depuração de código
+
+1)
+Opções que quebra o código:
+3	( divisão por 0; locadora 39 indo pro main 44)
+5	( puxa um item null ; locadora 63 indo pra main 52)
+10	( array out of bounds ; locadora 134 indo pra main 69)
+
+
+Erro da opção 3:
+A média de idade do cliente tá fazendo a divisão da soma por 0, pois a lista lida (clientes novos) não possui nenhum item e a divisão por 0 é impossível. para arrumar o código basta colocar a condição que o tamanho da lista seja maior que 0, caso seja 0 retornar 0.
+
+Erro da opção 5:
+O erro acontece pois o laço tenta encontrar um carro com uma placa, porém esse carro não existe / não está disponível na lista de carros, portanto a função tenta entrar em uma variável (encontrado) null o que quebra o programa. Para arrumar basta criar um else dentro da condicional (de achar a placa (carros[].getPlaca().equals(placa) para retornar um aviso que o carro não foi encontrado, assim a função não chega na linha em que ela procura por uma variável null
+
+Erro da opção 10:
+O laço tentava buscar uma posição superior a quantidade limiar de dias (possui 3 posições, o laço tentava entrar na posição 3 (4ª posição)) e isso quebrava o código, bastava trocar o <= para < assim o laço para a posição 3.
+
+
+
+
+2) Testar Funcionamento
+1:
+Pegar os carros disponíveis e mostrar a quantidade
+
+Funciona perfeitamente
+
+2:
+Somar a diária de todos os carros
+
+Funciona mas faz com 1 carro a menos (pois o laço começa no número 1, excluindo o carro da posição 0, afetando o total)
+
+Mudando o início para 0 o Código funciona perfeitamente
+
+3:
+Calcular a média de idade do cliente
+
+A média de idade do cliente tá fazendo a divisão da soma por 0, pois a lista lida (clientes novos) não possui nenhum item e a divisão por 0 é impossível. para arrumar o código basta colocar a condição que o tamanho da lista seja maior que 0, caso seja 0 retornar 0.
+
+Funciona perfeitamente (depois de arrumado)
+
+4:
+Busca do cliente mais velho
+
+Funciona perfeitamente
+
+5:
+Busca pelo carro ZZZ0000
+
+Não funciona pq aponta pra um null pointer (o objetivo / variável que está sendo apontada é null) eu "arrumei" mas foi uma gambiarra e não se pode usar o return pq isso fecha o loop e portanto novamente ele só lê o primeiro carro, para funcionar e passar pelo loop inteiro usei um else (do if) continue, pra continuar o loop
+e um return depois do laço falando que o carro não pode ser encontrado caso não tenha um carro com essa placa na lista carros
+
+Depois da mudança funciona perfeitamente
+
+6:
+Calcular multa pro atraso
+
+tá errado, o laço ta fazendo com a quantidade de dias de atraso porém o laço começa no 0, efetivamente calculando um dia a mais (já que o java faz 0, 1, 2 e 3) para arrumar basta fazer o loop começar em 1 ou fazer i ir até o número de dias de atraso -1
+
+Depois da mudança funciona perfeitamente
+
+7:
+Locação completa
+
+Funciona perfeitamente
+
+8:
+Diária da categoria 1 por 5 dias
+
+eu não sei se a categoria 1 era pra ser a posição 0 da lista tabela_precos mas eu vou assumir que não, e o usuário que deve apontar qual a categoria que ele quer.
+Portanto funciona perfeitamente
+
+Depois de arrumar funciona
+
+9:
+Gerar resumo de frota (quantidade de carros disponível e o valor médio da diário com os carros disponíveis)
+
+Funciona perfeitamente mas ta mostrando o valor da média com muitas casas decimais, trunquei
+
+10:
+Aplicar um desconto escalonado sobre o valor base, conforme a quantidade de dias alugados
+
+funciona perfeitamente
+
+11:
+verificação da fidelidade da cliente ana
+
+
+quase funciona, como deve ter pelo menos 25 anos deve ser >= e está apenas como >
+arrumando isso funciona perfeitamente

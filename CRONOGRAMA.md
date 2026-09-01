@@ -181,4 +181,19 @@ Fiz a monitoria do pensamento e já coloquei no portfólio, terminei de depurar 
 *planos: fazer a tarefa do Marcelo de encapsulamento e tentar fazer a mesma atividade do pensamento computacional de ontem pra estudar HTML*
 
 Fiz a tarefa do Marcelo do encapsulamento e "fiz" a atividade do pensamento computacional mas ficou feia 
+
+### Dia 28/08/2026
+*planos: fazer a aividade 12 do Marcelo de POO e começei a fazer o JavaDoc do projeto de depuração de algorítimos*
+
+Terminei a atividade do Marcelo e fiz um pouco do JavaDoc
+
+### Dia 31/08/2026
+*planos: fazer a monitoria do Londrinense Tech, passar pro portfólio, fazer a atividade 11 do Marcelo que eu esqueci e começar a fazer a atividade de Metodologias ágeis no Cofluence*
+
+Fiz a monitoria já passei pro portfólio, terminei a atividade 11 mas não entendi nada do Cofluence e fiquei mexendo nele
+
+### Dia 01/09/2026
+*planos: continuar a explorar o cofluence e tentar terminar o trabalho do Leonardo de depuração de código*
+
+Mexi mais com o cofluence e terminei a parte 1 do trabalho do Leonardo
 </body>
